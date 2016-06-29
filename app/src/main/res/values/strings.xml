@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Star Wars Planets</string>
+    <string name="enter_weight">Enter weight(kg):</string>
+    <string name="calculate_weight">Calculate weight!</string>
+    <string name="click_on_the_planet_for_more_info">Click on the planet for more info.</string>
+    <string-array name="planets_array">
+        <item>Alderaan</item>
+        <item>Yavin IV</item>
+        <item>Hoth</item>
+        <item>Dagobah</item>
+        <item>Bespin</item>
+        <item>Endor</item>
+        <item>Naboo</item>
+        <item>Coruscant</item>
+        <item>Kamino</item>
+        <item>Geonosis</item>
+    </string-array>
+</resources>
